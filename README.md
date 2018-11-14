@@ -1,6 +1,6 @@
 # Starter Web Project
 
-This is a simple website project for showing how to sue Git and Github together. Adding a line of text for rebasing example, then I'm adding more changes from myfeature branch too.
+This is a simple website project for showing how to sue Git and Github together. Updating line for emergency fix after stash
 
 ## Introduction
 
