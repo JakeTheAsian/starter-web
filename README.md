@@ -15,4 +15,4 @@ Please fork this repository and then issue Pull Requests for review.
 
 ## Copyright
 
-Copyright 2018
+Copyright 2018 - This is a minor change.
